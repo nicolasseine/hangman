@@ -1,0 +1,17 @@
+---
+- :@word_to_guess:
+  - L
+  - A
+  - N
+  - G
+  - L
+  - E
+  - Y
+- :@guesses_left: 6
+- :@right_guesses:
+  - E
+- :@wrong_guesses:
+  - D
+  - H
+  - Z
+  - Z
